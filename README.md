@@ -1,4 +1,3 @@
 # bootcamp-public
-Bootcamp public repo
-tutorials and tools for the bootcamp
-this is a public repo
+Bootcamp public repo. Tutorials and tools for the bootcamp.
+This is a public repo.
